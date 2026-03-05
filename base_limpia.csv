@@ -1,0 +1,101 @@
+ID Pedido,Cliente,Ciudad,Fecha Pedido,Fecha Envío,Fecha Entrega Esperada,Fecha Entrega Real,Transportadora,Estado Despacho,Razón Retraso,Devolución,Observaciones
+1,Juan Pérez,Bogotá,01/02/2026,02/02/2026,05/02/2026,05/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+2,María Gómez,Medellín,01/02/2026,02/02/2026,04/02/2026,05/02/2026,RápidoLog,Retrasado,Clima,No,Retraso por lluvia
+3,Carlos Torres,Cali,02/02/2026,03/02/2026,06/02/2026,06/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+4,Laura Rodríguez,Barranquilla,02/02/2026,03/02/2026,07/02/2026,08/02/2026,ServiExpress,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+5,Andrés Ramírez,Bogotá,03/02/2026,04/02/2026,06/02/2026,06/02/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+6,Ana Morales,Medellín,03/02/2026,04/02/2026,07/02/2026,07/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+7,José López,Cali,04/02/2026,05/02/2026,08/02/2026,09/02/2026,ServiExpress,Retrasado,Logística,No,Retraso por congestión
+8,Marina Díaz,Bogotá,04/02/2026,05/02/2026,08/02/2026,08/02/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+9,Santiago Ruiz,Bucaramanga,05/02/2026,06/02/2026,09/02/2026,10/02/2026,FastTrack,Retrasado,Error de dirección,No,Dirección incorrecta
+10,Camila López,Cartagena,05/02/2026,06/02/2026,10/02/2026,10/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+11,Diego Silva,Bogotá,06/02/2026,07/02/2026,11/02/2026,11/02/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+12,Valentina Cruz,Medellín,06/02/2026,07/02/2026,11/02/2026,12/02/2026,FastTrack,Retrasado,Clima,Sí,Devolución por mal estado
+13,Laura Vega,Cali,07/02/2026,08/02/2026,12/02/2026,12/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+14,Ricardo Díaz,Bogotá,07/02/2026,08/02/2026,12/02/2026,13/02/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+15,Sofía Torres,Bucaramanga,08/02/2026,09/02/2026,13/02/2026,13/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+16,Andrés Fernández,Cali,08/02/2026,09/02/2026,14/02/2026,14/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+17,Carolina Mejía,Bogotá,09/02/2026,10/02/2026,14/02/2026,15/02/2026,RápidoLog,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+18,Juan Camilo Rojas,Medellín,09/02/2026,10/02/2026,14/02/2026,14/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+19,Isabella Jiménez,Cali,10/02/2026,11/02/2026,15/02/2026,15/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+20,Luis Alberto Pérez,Bogotá,10/02/2026,11/02/2026,15/02/2026,16/02/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+21,Maria Fernanda Castro,Barranquilla,11/02/2026,12/02/2026,16/02/2026,16/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+22,Camilo Gómez,Bogotá,11/02/2026,12/02/2026,17/02/2026,17/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+23,Daniela Morales,Medellín,12/02/2026,13/02/2026,18/02/2026,18/02/2026,RápidoLog,Retrasado,Clima,Sí,Devolución por mal estado
+24,Felipe Torres,Cali,12/02/2026,13/02/2026,18/02/2026,19/02/2026,FastTrack,Retrasado,Logística,No,Retraso por congestión
+25,Alejandra Ramírez,Bogotá,13/02/2026,14/02/2026,19/02/2026,19/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+26,Santiago Muñoz,Barranquilla,13/02/2026,14/02/2026,20/02/2026,20/02/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+27,Lina Paredes,Medellín,14/02/2026,15/02/2026,21/02/2026,22/02/2026,FastTrack,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+28,Andrés García,Bogotá,14/02/2026,15/02/2026,21/02/2026,21/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+29,Valentina Torres,Cali,15/02/2026,16/02/2026,22/02/2026,22/02/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+30,Camila Jiménez,Bogotá,15/02/2026,16/02/2026,22/02/2026,23/02/2026,FastTrack,Retrasado,Logística,No,Retraso por tránsito
+31,Diego Martínez,Barranquilla,16/02/2026,17/02/2026,23/02/2026,23/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+32,Sofía Fernández,Medellín,16/02/2026,17/02/2026,23/02/2026,24/02/2026,RápidoLog,Retrasado,Clima,Sí,Devolución por mal estado
+33,Luis Torres,Cali,17/02/2026,18/02/2026,24/02/2026,24/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+34,Mariana López,Bogotá,17/02/2026,18/02/2026,25/02/2026,25/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+35,Felipe Gómez,Barranquilla,18/02/2026,19/02/2026,26/02/2026,26/02/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+36,Camila Torres,Cali,18/02/2026,19/02/2026,26/02/2026,27/02/2026,FastTrack,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+37,Juan Martínez,Bogotá,19/02/2026,20/02/2026,27/02/2026,27/02/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+38,Isabella Ramírez,Medellín,19/02/2026,20/02/2026,27/02/2026,28/02/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+39,Daniel Torres,Barranquilla,20/02/2026,21/02/2026,28/02/2026,28/02/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+40,Laura González,Cali,20/02/2026,21/02/2026,01/03/2026,01/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+41,Juan Camilo Martínez,Bogotá,21/02/2026,22/02/2026,02/03/2026,03/03/2026,RápidoLog,Retrasado,Clima,Sí,Devolución por mal estado
+42,Sofía Ramírez,Medellín,21/02/2026,22/02/2026,02/03/2026,02/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+43,Felipe Torres,Cali,22/02/2026,23/02/2026,03/03/2026,03/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+44,Camila Fernández,Bogotá,22/02/2026,23/02/2026,03/03/2026,04/03/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+45,Diego Ramírez,Barranquilla,23/02/2026,24/02/2026,04/03/2026,04/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+46,Mariana Torres,Cali,23/02/2026,24/02/2026,05/03/2026,06/03/2026,ServiExpress,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+47,Juan Pérez,Bogotá,24/02/2026,25/02/2026,06/03/2026,06/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+48,Valentina Gómez,Medellín,24/02/2026,25/02/2026,06/03/2026,07/03/2026,FastTrack,Retrasado,Clima,Sí,Devolución por mal estado
+49,Luis Torres,Cali,25/02/2026,26/02/2026,07/03/2026,07/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+50,Sofía Ramírez,Bogotá,25/02/2026,26/02/2026,07/03/2026,08/03/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+51,Andrés Fernández,Medellín,26/02/2026,27/02/2026,08/03/2026,08/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+52,Camila Torres,Cali,26/02/2026,27/02/2026,08/03/2026,09/03/2026,ServiExpress,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+53,Juan Martínez,Bogotá,27/02/2026,28/02/2026,09/03/2026,09/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+54,Isabella Ramírez,Medellín,27/02/2026,28/02/2026,09/03/2026,10/03/2026,FastTrack,Retrasado,Logística,No,Retraso por congestión
+55,Daniel Torres,Barranquilla,28/02/2026,01/03/2026,10/03/2026,10/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+56,Laura González,Cali,28/02/2026,01/03/2026,11/03/2026,11/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+57,Juan Camilo Martínez,Bogotá,01/03/2026,02/03/2026,12/03/2026,12/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+58,Sofía Ramírez,Medellín,01/03/2026,02/03/2026,12/03/2026,13/03/2026,ServiExpress,Retrasado,Clima,Sí,Devolución por mal estado
+59,Felipe Torres,Cali,02/03/2026,03/03/2026,13/03/2026,13/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+60,Camila Fernández,Bogotá,02/03/2026,03/03/2026,13/03/2026,14/03/2026,FastTrack,Retrasado,Logística,No,Retraso por tránsito
+61,Diego Ramírez,Barranquilla,03/03/2026,04/03/2026,14/03/2026,14/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+62,Mariana Torres,Cali,03/03/2026,04/03/2026,14/03/2026,15/03/2026,RápidoLog,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+63,Juan Pérez,Bogotá,04/03/2026,05/03/2026,15/03/2026,15/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+64,Valentina Gómez,Medellín,04/03/2026,05/03/2026,15/03/2026,16/03/2026,ServiExpress,Retrasado,Clima,Sí,Devolución por mal estado
+65,Luis Torres,Cali,05/03/2026,06/03/2026,16/03/2026,16/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+66,Sofía Ramírez,Bogotá,05/03/2026,06/03/2026,16/03/2026,17/03/2026,FastTrack,Retrasado,Logística,No,Retraso por tránsito
+67,Andrés Fernández,Medellín,06/03/2026,07/03/2026,17/03/2026,17/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+68,Camila Torres,Cali,06/03/2026,07/03/2026,17/03/2026,18/03/2026,RápidoLog,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+69,Juan Martínez,Bogotá,07/03/2026,08/03/2026,18/03/2026,18/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+70,Isabella Ramírez,Medellín,07/03/2026,08/03/2026,18/03/2026,19/03/2026,ServiExpress,Retrasado,Logística,No,Retraso por congestión
+71,Daniel Torres,Barranquilla,08/03/2026,09/03/2026,19/03/2026,19/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+72,Laura González,Cali,08/03/2026,09/03/2026,19/03/2026,20/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+73,Juan Camilo Martínez,Bogotá,09/03/2026,10/03/2026,20/03/2026,20/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+74,Sofía Ramírez,Medellín,09/03/2026,10/03/2026,20/03/2026,21/03/2026,RápidoLog,Retrasado,Clima,Sí,Devolución por mal estado
+75,Felipe Torres,Cali,10/03/2026,11/03/2026,21/03/2026,21/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+76,Camila Fernández,Bogotá,10/03/2026,11/03/2026,21/03/2026,22/03/2026,ServiExpress,Retrasado,Logística,No,Retraso por tránsito
+77,Diego Ramírez,Barranquilla,11/03/2026,12/03/2026,22/03/2026,22/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+78,Mariana Torres,Cali,11/03/2026,12/03/2026,22/03/2026,23/03/2026,FastTrack,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+79,Juan Pérez,Bogotá,12/03/2026,13/03/2026,23/03/2026,23/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+80,Valentina Gómez,Medellín,12/03/2026,13/03/2026,23/03/2026,24/03/2026,RápidoLog,Retrasado,Clima,Sí,Devolución por mal estado
+81,Luis Torres,Cali,13/03/2026,14/03/2026,24/03/2026,24/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+82,Sofía Ramírez,Bogotá,13/03/2026,14/03/2026,24/03/2026,25/03/2026,ServiExpress,Retrasado,Logística,No,Retraso por tránsito
+83,Andrés Fernández,Medellín,14/03/2026,15/03/2026,25/03/2026,25/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+84,Camila Torres,Cali,14/03/2026,15/03/2026,25/03/2026,26/03/2026,FastTrack,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+85,Juan Martínez,Bogotá,15/03/2026,16/03/2026,26/03/2026,26/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+86,Isabella Ramírez,Medellín,15/03/2026,16/03/2026,26/03/2026,27/03/2026,RápidoLog,Retrasado,Logística,No,Retraso por congestión
+87,Daniel Torres,Barranquilla,16/03/2026,17/03/2026,27/03/2026,27/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+88,Laura González,Cali,16/03/2026,17/03/2026,27/03/2026,28/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+89,Juan Camilo Martínez,Bogotá,17/03/2026,18/03/2026,28/03/2026,28/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+90,Sofía Ramírez,Medellín,17/03/2026,18/03/2026,28/03/2026,29/03/2026,FastTrack,Retrasado,Clima,Sí,Devolución por mal estado
+91,Felipe Torres,Cali,18/03/2026,19/03/2026,29/03/2026,29/03/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+92,Camila Fernández,Bogotá,18/03/2026,19/03/2026,29/03/2026,30/03/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+93,Diego Ramírez,Barranquilla,19/03/2026,20/03/2026,30/03/2026,30/03/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+94,Mariana Torres,Cali,19/03/2026,20/03/2026,30/03/2026,31/03/2026,ServiExpress,Retrasado,Cliente ausente,Sí,Devolución por no recibir
+95,Juan Pérez,Bogotá,20/03/2026,21/03/2026,31/03/2026,31/03/2026,RápidoLog,Entregado,N/A,No,Entregado a tiempo
+96,Valentina Gómez,Medellín,20/03/2026,21/03/2026,31/03/2026,01/04/2026,FastTrack,Retrasado,Clima,Sí,Devolución por mal estado
+97,Luis Torres,Cali,21/03/2026,22/03/2026,01/04/2026,01/04/2026,ServiExpress,Entregado,N/A,No,Entregado a tiempo
+98,Sofía Ramírez,Bogotá,21/03/2026,22/03/2026,01/04/2026,02/04/2026,RápidoLog,Retrasado,Logística,No,Retraso por tránsito
+99,Andrés Fernández,Medellín,22/03/2026,23/03/2026,02/04/2026,02/04/2026,FastTrack,Entregado,N/A,No,Entregado a tiempo
+100,Camila Torres,Cali,22/03/2026,23/03/2026,02/04/2026,03/04/2026,ServiExpress,Retrasado,Cliente ausente,Sí,Devolución por no recibir
